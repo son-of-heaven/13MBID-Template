@@ -6,8 +6,10 @@ Plantilla de repositorio para la asignatura 13MBID.
 *Master Universitario en Big Data y Ciencia de Datos  
 Universidad Internacional de Valencia*  
 
-Prof: Dr. Horacio Kuna
+Prof: Dr. Horacio Kuna  
 Dictado: OCT23-24
+Inicio de la actividad practica I: 12/marzo2024
+  Alumno: Samuel Guzman
 
 ## Descripción del contenido
 
